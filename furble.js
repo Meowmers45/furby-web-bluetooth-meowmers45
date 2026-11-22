@@ -618,7 +618,7 @@ async function doConnect() {
     var server;
     try {
         device = await navigator.bluetooth.requestDevice({
-            filters: [{ name: 'Furby'}], 
+            filters: [{ name: 'Furby'}, { name: 'Furby Life'}], 
             optionalServices: ['generic_access', 'device_information', fluff_service]});
         device.addEventListener('gattserverdisconnected', onDisconnected);
         log('Connecting to GATT Server...');
