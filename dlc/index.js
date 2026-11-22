@@ -29,14 +29,14 @@
         ]
     },
     {
-        "file": "SWAPOFWA.dlc", 
+        "file": "SWAPOFWA.DLC", 
         "title": "Test Personality",
         "buttons": [
             { "title": "Ninja ", "action": [73,0,0,3] }
         ]
     },
     {
-        "file": "UFASR001.dlc", 
+        "file": "UFASR001.DLC", 
         "title": "Asriel",
         "buttons": [
             { "title": "Asriel ", "action": [75,0,0,0] }
