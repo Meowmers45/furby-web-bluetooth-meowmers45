@@ -27,5 +27,19 @@
         "buttons": [
             { "title": "Chilli ", "action": [75,0,4,4] }
         ]
+    },
+    {
+        "file": "SWAPOFWA.dlc", 
+        "title": "Test Personality",
+        "buttons": [
+            { "title": "Ninja ", "action": [73,0,0,3] }
+        ]
+    },
+    {
+        "file": "UFASR001.dlc", 
+        "title": "Asriel",
+        "buttons": [
+            { "title": "Asriel ", "action": [75,0,0,0] }
+        ]
     }
 ]
